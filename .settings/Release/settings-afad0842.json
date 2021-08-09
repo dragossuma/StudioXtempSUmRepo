@@ -7,5 +7,6 @@
   "UiPath.Excel.Activities.ExcelProcessScope.ProcessMode": "ReuseIfExists",
   "UiPath.Excel.Activities.ExcelProcessScope.ExistingProcessAction": "None",
   "UiPath.Excel.Activities.ExcelProcessScope.FileConflictResolution": "ThrowException",
-  "UiPath.Excel.Activities.UseExcelFile.ReadFormatting": "Default"
+  "UiPath.Excel.Activities.UseExcelFile.ReadFormatting": "Default",
+  "UiPath.Excel.Activities.ExcelProcessScope.MacroSettings": "EnableAll"
 }
